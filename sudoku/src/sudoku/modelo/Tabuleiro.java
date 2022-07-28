@@ -18,6 +18,7 @@ public class Tabuleiro {
 	private Map<Integer, List<Integer>> tabela = new HashMap<Integer, List<Integer>>(9);
 	private Map<Integer, List<Integer>> t1 = new HashMap<Integer, List<Integer>>(9);
 
+	//teste
 	
 	
 	private boolean colunaOK(int linha) {
